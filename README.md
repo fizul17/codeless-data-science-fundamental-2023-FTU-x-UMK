@@ -21,6 +21,8 @@ The  land use also have and bad side to our nature because of the waste when bui
 
 # Methodology 
 
+![image](https://github.com/fizul17/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848356/26e89143-113d-468e-bb0c-80c1a56dcf82)
+
 The methodology that in my report and that I have been use in knime application is Data collection, Data reprocessing, Data analysis and data visualition to process my data to show that what i need in my last output. The output that has been clean and can be a data that show what we can improve in the feature. 
 
 1.	Data collection
