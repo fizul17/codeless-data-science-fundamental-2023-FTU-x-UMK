@@ -33,12 +33,12 @@ In this section, I have collect the data from the government post that show the 
 
 The function that I has been use in my program is:
 
-•	csv reader, to read the data in my program.
-•	Column filter, to filter the column the which there have any problem 
-•	Missing value, fix the missing value to the data that can be use in the program. 
-•	Cache, clear the data that not has been use in the program.
-•	Colour manager, helps to fix either nominal or numeric column. 
-•	Table view, display the data in an HTML table view. 
+•csv reader, to read the data in my program.
+•Column filter, to filter the column the which there have any problem 
+•Missing value, fix the missing value to the data that can be use in the program. 
+•Cache, clear the data that not has been use in the program.
+•Colour manager, helps to fix either nominal or numeric column. 
+•Table view, display the data in an HTML table view. 
 
 3.	Data Analysis
 
