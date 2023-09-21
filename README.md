@@ -48,6 +48,7 @@ The data will be fix for a few category to make the user easy to understand whic
 
 The data will be show in the pie chart, bar chart, table and scatter plot. The data the we already has been analyse such as prediction and what part or area that use the land that we can recognize which is more and less. Then we can do the planning for the feature.
 
+<img width="1440" alt="Screenshot 2023-09-21 at 1 33 02 PM" src="https://github.com/fizul17/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848356/1af171fb-3830-4e87-bb71-6da1e3be7505">
 
 # Experimental result
 
