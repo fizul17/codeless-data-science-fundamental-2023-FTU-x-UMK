@@ -8,20 +8,20 @@ This repository is about Data Science Fun. It is implementing KNIME Codeless Too
 
 Abstract 
 
-	The report will present about use land in Malaysia to classify land use type from satellite imagery or other geospatial data. The analysis will show the land has been use in Malaysia in what type, that has been categorise in a few types. For an example, the land use for human activities or environment in ecosystem. In this programming also we decided to do analysis for how land use in Malaysia.
+The report will present about use land in Malaysia to classify land use type from satellite imagery or other geospatial data. The analysis will show the land has been use in Malaysia in what type, that has been categorise in a few types. For an example, the land use for human activities or environment in ecosystem. In this programming also we decided to do analysis for how land use in Malaysia.
 
 Introduction 
 
-	Malaysia have 11 state in Peninsular, Sabah and Serawak which is  the area 127 560.2 km. Malaysia has a few land area that has been reserve for the ecosystem and for the habitat  for animals and so on. This is to protect the nature from disaster from human or something that disturbance the habitat and supply chain. 
+Malaysia have 11 state in Peninsular, Sabah and Serawak which is  the area 127 560.2 km. Malaysia has a few land area that has been reserve for the ecosystem and for the habitat  for animals and so on. This is to protect the nature from disaster from human or something that disturbance the habitat and supply chain. 
 
-	Land is the place that people can stay, build the building, agriculture and etc. The land use in Malaysia has some of benefit for economic sector, investment and etc. For an example, build public transportation such as train, roadside and so on, farm or agriculture area for economic in Malaysia. The development of the country should have a good plan to ensure we are not over use the nature.
+Land is the place that people can stay, build the building, agriculture and etc. The land use in Malaysia has some of benefit for economic sector, investment and etc. For an example, build public transportation such as train, roadside and so on, farm or agriculture area for economic in Malaysia. The development of the country should have a good plan to ensure we are not over use the nature.
 	
 The  land use also have and bad side to our nature because of the waste when building, and waste from the human that are stay at the building. This can be effect the nature for an example water pollution, air pollution and etc. Pollution disruption to the ecosystem for an example of supply chain of the ecosystem. 
 
 
 Methodology 
 
-	The methodology that in my report and that I have been use in knime application is Data collection, Data reprocessing, Data analysis and data visualition to process my data to show that what i need in my last output. The output that has been clean and can be a data that show what we can improve in the feature. 
+The methodology that in my report and that I have been use in knime application is Data collection, Data reprocessing, Data analysis and data visualition to process my data to show that what i need in my last output. The output that has been clean and can be a data that show what we can improve in the feature. 
 
 1.	Data collection
 
@@ -72,7 +72,7 @@ Experimental result
   
 Conclusion 
 
-	 The conclusion for  this project is to ensure the land use is balance with development to our country. The prediction from this project we can use for the measure that we have a balance development and will not effect lots of our ecosystem. This prediction also we can use to create a plan for the feature to ensure all are smooth and run smoothly. 
+The conclusion for  this project is to ensure the land use is balance with development to our country. The prediction from this project we can use for the measure that we have a balance development and will not effect lots of our ecosystem. This prediction also we can use to create a plan for the feature to ensure all are smooth and run smoothly. 
 
 
 
