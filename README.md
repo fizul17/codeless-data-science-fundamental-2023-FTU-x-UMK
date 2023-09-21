@@ -4,13 +4,13 @@ Welcome to the class
 ## Introduction
 This repository is about Data Science Fun. It is implementing KNIME Codeless Tool for doing data science analytics
 
-                                                              The topic: Land Use In Malaysia.
+# The topic: Land Use In Malaysia.
 
-Abstract 
+# Abstract 
 
 The report will present about use land in Malaysia to classify land use type from satellite imagery or other geospatial data. The analysis will show the land has been use in Malaysia in what type, that has been categorise in a few types. For an example, the land use for human activities or environment in ecosystem. In this programming also we decided to do analysis for how land use in Malaysia.
 
-Introduction 
+# Introduction 
 
 Malaysia have 11 state in Peninsular, Sabah and Serawak which is  the area 127 560.2 km. Malaysia has a few land area that has been reserve for the ecosystem and for the habitat  for animals and so on. This is to protect the nature from disaster from human or something that disturbance the habitat and supply chain. 
 
@@ -19,7 +19,7 @@ Land is the place that people can stay, build the building, agriculture and etc.
 The  land use also have and bad side to our nature because of the waste when building, and waste from the human that are stay at the building. This can be effect the nature for an example water pollution, air pollution and etc. Pollution disruption to the ecosystem for an example of supply chain of the ecosystem. 
 
 
-Methodology 
+# Methodology 
 
 The methodology that in my report and that I have been use in knime application is Data collection, Data reprocessing, Data analysis and data visualition to process my data to show that what i need in my last output. The output that has been clean and can be a data that show what we can improve in the feature. 
 
@@ -47,7 +47,7 @@ The data will be fix for a few category to make the user easy to understand whic
 The data will be show in the pie chart, bar chart, table and scatter plot. The data the we already has been analyse such as prediction and what part or area that use the land that we can recognize which is more and less. Then we can do the planning for the feature.
 
 
-Experimental result
+# Experimental result
 
 <img width="1136" alt="Screenshot 2023-09-19 at 6 18 58 PM" src="https://github.com/fizul17/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93848356/206edce2-b0ba-4d5d-973d-96113da28239">
 
@@ -70,13 +70,13 @@ Experimental result
   The line plot show about the predection of the land use in malaysia are high in year 2021. Then keep going down, except "Timur laut". This is can be related to the enviroment, goverment and financial. If the have a good financial and the govement for that sate is good also can helps then to increasingly lively in future.
   
   
-Conclusion 
+# Conclusion 
 
 The conclusion for  this project is to ensure the land use is balance with development to our country. The prediction from this project we can use for the measure that we have a balance development and will not effect lots of our ecosystem. This prediction also we can use to create a plan for the feature to ensure all are smooth and run smoothly. 
 
 
 
-Reference  
+# Reference  
 
 1. Perpustakaan University Malaysia, http://studentsrepo.um.edu.my/677/3/CHAP2.pdf
 2. Agriculture Land use in Malaysia: An Historical Overview And Implication for food security, December 2012, Olaniyi, Abdullah, ramli and Sood. https://www.agrojournal.org/19/01-08.pdf
